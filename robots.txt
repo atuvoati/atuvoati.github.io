@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://atuvoati.github.io/Dut/sitemap_index.txt
+Sitemap: https://atuvoati.github.io/Rvc/sitemap_index.txt
+Sitemap: https://atuvoati.github.io/dCx/sitemap_index.txt
+Sitemap: https://atuvoati.github.io/kfE/sitemap_index.txt
